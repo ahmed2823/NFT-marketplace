@@ -16,12 +16,6 @@ module.exports = {
       url: "https://rpc-mumbai.matic.today",
       accounts: [privateKey]
     },
-    matic: {
-      // Infura
-      // url: `https://polygon-mainnet.infura.io/v3/${infuraId}`,
-      url: "https://rpc-mainnet.maticvigil.com",
-      accounts: [privateKey]
-    }
     */
   },
   solidity: {
